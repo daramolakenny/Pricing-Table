@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    gap: 2rem;
+}
+
+.pricing{
+    background-color: gray;
+    text-align: center;
+    padding: .5rem;
+}
